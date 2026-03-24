@@ -1,0 +1,17 @@
+--2026-03-24 20:16:38--  http://wget/
+Resolving wget (wget)... failed: Name or service not known.
+wget: unable to resolve host address ‘wget’
+--2026-03-24 20:16:38--  https://th.bing.com/th/id/OIP.UR0dlxc4kTpPz2EbHf03VAHaE8?w=288
+Resolving th.bing.com (th.bing.com)... 23.210.216.149, 23.210.216.153, 23.210.216.152, ...
+Connecting to th.bing.com (th.bing.com)|23.210.216.149|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8605 (8.4K) [image/jpeg]
+Saving to: ‘input.png’
+
+input.png                              0%[                                                                     ]       0  --.-KB/s               input.png                            100%[====================================================================>]   8.40K  --.-KB/s    in 0s      
+
+2026-03-24 20:16:38 (126 MB/s) - ‘input.png’ saved [8605/8605]
+
+FINISHED --2026-03-24 20:16:38--
+Total wall clock time: 0.1s
+Downloaded: 1 files, 8.4K in 0s (126 MB/s)
